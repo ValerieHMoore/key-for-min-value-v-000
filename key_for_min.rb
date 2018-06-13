@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   smallest = ""
   names.each do |name, price|
-  if name == price is the lowest
+  if name == #price is the lowest
     smallest = item
   end
 end
