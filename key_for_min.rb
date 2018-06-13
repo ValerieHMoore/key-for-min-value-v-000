@@ -9,7 +9,8 @@ def key_for_min_value(name_hash)
       smallest = price
       smallest_key = name
     end
-
+  end
+  smallest_key
 end
 
 smallest
